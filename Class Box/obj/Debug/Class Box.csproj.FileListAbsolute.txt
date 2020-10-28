@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\bin\Debug\Class Box.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\bin\Debug\Class Box.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\bin\Debug\Class Box.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\obj\Debug\Class Box.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\obj\Debug\Class Box.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\obj\Debug\Class Box.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box\obj\Debug\Class Box.pdb

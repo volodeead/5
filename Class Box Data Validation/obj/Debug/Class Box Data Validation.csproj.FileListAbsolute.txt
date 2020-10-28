@@ -1,0 +1,6 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box Data Validation\bin\Debug\Class Box Data Validation.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box Data Validation\bin\Debug\Class Box Data Validation.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box Data Validation\bin\Debug\Class Box Data Validation.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box Data Validation\obj\Debug\Class Box Data Validation.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box Data Validation\obj\Debug\Class Box Data Validation.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Class Box Data Validation\obj\Debug\Class Box Data Validation.pdb

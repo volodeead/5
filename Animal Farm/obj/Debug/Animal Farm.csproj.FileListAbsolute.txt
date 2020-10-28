@@ -1,0 +1,6 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Animal Farm\bin\Debug\Animal Farm.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Animal Farm\bin\Debug\Animal Farm.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Animal Farm\bin\Debug\Animal Farm.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Animal Farm\obj\Debug\Animal Farm.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Animal Farm\obj\Debug\Animal Farm.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.5.ООП\Encapsulation Exercises\Animal Farm\obj\Debug\Animal Farm.pdb
