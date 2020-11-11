@@ -1,0 +1,7 @@
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\bin\Debug\CreatEaPizzaClass.exe.config
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\bin\Debug\CreatEaPizzaClass.exe
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\bin\Debug\CreatEaPizzaClass.pdb
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\obj\Debug\CreatEaPizzaClass.csproj.CoreCompileInputs.cache
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\obj\Debug\CreatEaPizzaClass.exe
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\obj\Debug\CreatEaPizzaClass.pdb
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\CreatEaPizzaClass\obj\Debug\CreatEaPizzaClass.csprojAssemblyReference.cache

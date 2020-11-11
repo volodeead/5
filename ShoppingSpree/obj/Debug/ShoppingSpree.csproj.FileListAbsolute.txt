@@ -1,0 +1,7 @@
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\obj\Debug\ShoppingSpree.csprojAssemblyReference.cache
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\obj\Debug\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+D:\Навчання\Томна ООП\0.5.ООП\Encapsulation Exercises\ShoppingSpree\obj\Debug\ShoppingSpree.pdb
